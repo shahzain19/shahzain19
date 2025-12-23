@@ -1,6 +1,6 @@
 # Hi, I’m Shyn 👋
 
-I’m a developer focused on building reliable, well-structured products — from frontend interfaces to backend systems and interactive applications.
+I’m a developer focused on building reliable, well-structured product from frontend interfaces to backend systems and interactive applications.
 
 I care about clean code, solid fundamentals, and shipping things that work.
 
@@ -22,14 +22,8 @@ I care about clean code, solid fundamentals, and shipping things that work.
 
 ### Game Development
 - Unity, Godot
-- Blender (game-ready 3D assets)
 - Custom movement & gameplay systems
-
-### Programming & Tools
-- Python (automation, tooling, data handling)
-- C++ (learning & fundamentals)
-- Git & GitHub
-- CLI-based workflows
+- making my own make
 
 ---
 
@@ -45,7 +39,7 @@ I care about clean code, solid fundamentals, and shipping things that work.
 
 ## 🎯 Strengths
 
-- Strong problem-solving mindset
+- Strong problem solving mindset
 - Comfortable working across the stack
 - Focus on fundamentals over shortcuts
 - Clear, maintainable code
@@ -53,25 +47,9 @@ I care about clean code, solid fundamentals, and shipping things that work.
 
 ---
 
-## 🌱 Currently Learning
-
-- Advanced networking concepts
-- Deeper computer science fundamentals
-- Performance-focused backend systems
-- Game architecture and systems design
-
----
-
-## 📍 Location
-- Pakistan (remote-friendly)
-
----
-
 ## 📫 Contact
 
 - GitHub: `@shahzain19`
 - Portfolio: `https://sini-two.vercel.app`
-
----
 
 *Open to internships, junior roles, and project-based work.*
