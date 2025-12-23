@@ -1,16 +1,77 @@
-## Hi there 👋
+# Hi, I’m Shyn 👋
 
-<!--
-**shahzain19/shahzain19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a developer focused on building reliable, well-structured products — from frontend interfaces to backend systems and interactive applications.
 
-Here are some ideas to get you started:
+I care about clean code, solid fundamentals, and shipping things that work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 Technical Skills
+
+### Frontend
+- React, Vite, Next.js (App Router)
+- JavaScript / TypeScript
+- Tailwind CSS
+- Responsive UI & component-driven design
+
+### Backend & Data
+- Supabase
+- SQLite
+- REST APIs
+- Auth, dashboards, role-based systems
+
+### Game Development
+- Unity, Godot
+- Blender (game-ready 3D assets)
+- Custom movement & gameplay systems
+
+### Programming & Tools
+- Python (automation, tooling, data handling)
+- C++ (learning & fundamentals)
+- Git & GitHub
+- CLI-based workflows
+
+---
+
+## 🛠 What I Build
+
+- SaaS platforms and internal tools  
+- Dashboards and admin panels  
+- Full-stack web applications  
+- Game prototypes and narrative-driven experiences  
+- Research and analysis tools  
+
+---
+
+## 🎯 Strengths
+
+- Strong problem-solving mindset
+- Comfortable working across the stack
+- Focus on fundamentals over shortcuts
+- Clear, maintainable code
+- Independent and self-directed learner
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced networking concepts
+- Deeper computer science fundamentals
+- Performance-focused backend systems
+- Game architecture and systems design
+
+---
+
+## 📍 Location
+- Pakistan (remote-friendly)
+
+---
+
+## 📫 Contact
+
+- GitHub: `@shahzain19`
+- Portfolio: `https://sini-two.vercel.app`
+
+---
+
+*Open to internships, junior roles, and project-based work.*
