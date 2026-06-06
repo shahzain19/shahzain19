@@ -1,4 +1,4 @@
-# Hi, I’m Shyn 👋
+# Hi, I’m Shahzain Rasool 👋
 
 Developer focused on building reliable, structured products from frontend interfaces to backend systems and interactive applications.
 
