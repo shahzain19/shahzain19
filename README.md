@@ -25,6 +25,6 @@ I value clean code, strong fundamentals, and shipping things that work.
 ## 📫 Contact
 
 - GitHub: `@shahzain19`  
-- Portfolio: https://sini-two.vercel.app  
+- Portfolio: https://sorvin-website-design.vercel.app/
 
 *Open to internships, junior roles, and project-based work.*
