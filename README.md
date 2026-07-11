@@ -1,30 +1,136 @@
-# Hi, I’m Shahzain Rasool 👋
+# Shahzain Rasool
 
-Developer focused on building reliable, structured products from frontend interfaces to backend systems and interactive applications.
+## Builder of Systems, Software, and Worlds
 
-I value clean code, strong fundamentals, and shipping things that work.
+I build things that combine engineering and creativity.
 
----
+From full-stack applications and automation tools to interactive worlds and low-level experiments, I enjoy turning ideas into working systems.
 
-## 🧠 Skills
-
-- **Frontend:** React, Vite, Next.js (App Router), TypeScript, Tailwind CSS  
-- **Backend:** Supabase, SQLite, REST APIs, Auth & dashboards  
-- **Game Dev:** Unity, Godot, custom gameplay systems  
+I believe great software is built through curiosity, strong fundamentals, and constant experimentation.
 
 ---
 
-## 🛠 What I Build
+## Currently Building
 
-- Full-stack web apps & SaaS tools  
-- Dashboards and internal tools  
-- Game prototypes and systems  
+### The Last Cartographer
+
+A 3D exploration game about a world slowly disappearing.
+
+The goal is simple:
+
+Explore. Discover. Map what remains.
+
+Built with:
+
+* Unity
+* C#
+* Procedural systems
+* Gameplay programming
 
 ---
 
-## 📫 Contact
+## Engineering Focus
 
-- GitHub: `@shahzain19`  
-- Portfolio: https://sorvin-website-design.vercel.app/
+```
+SOFTWARE SYSTEMS
+----------------
+Full-stack applications
+SaaS platforms
+Dashboards
+APIs
+Automation tools
 
-*Open to internships, junior roles, and project-based work.*
+
+INTERACTIVE WORLDS
+------------------
+Game mechanics
+Procedural generation
+Simulation systems
+Player experiences
+
+
+LOW LEVEL ENGINEERING
+---------------------
+C++
+Embedded systems
+Robotics
+Electronics
+PCB design
+```
+
+---
+
+## Technologies
+
+### Web Development
+
+React • Next.js • TypeScript • Tailwind CSS • Vite
+
+### Backend & Data
+
+Supabase • Firebase • SQLite • REST APIs
+
+### Game Development
+
+Unity • C# • Gameplay Systems • Procedural Generation
+
+### Engineering
+
+C++ • Embedded Systems • Robotics • Electronics
+
+---
+
+## Projects
+
+### Financial Systems
+
+Building tools focused on improving digital finance experiences and creating better systems for users.
+
+### Collaborative Applications
+
+Creating real-time productivity platforms with modern web technologies.
+
+### Experimental Games
+
+Developing games that focus on exploration, discovery, and unique gameplay systems.
+
+### Engineering Experiments
+
+Exploring the connection between software, hardware, and automation.
+
+---
+
+## Philosophy
+
+```
+Ideas are everywhere.
+
+The difference is building them.
+```
+
+I enjoy learning deeply, experimenting with new technologies, and creating projects that solve problems or create experiences.
+
+---
+
+## Connect
+
+GitHub:
+@shahzain19
+
+Portfolio:
+https://sorvin-website-design.vercel.app/
+
+---
+
+## Status
+
+```
+BUILDING Atlas
+
+CURRENT MODE:
+CREATE
+EXPERIMENT
+SHIP
+```
+
+*"Build things worth remembering."*
