@@ -1,136 +1,92 @@
-# Shahzain Rasool
+Shahzain Rasool
 
-## Builder of Systems, Software, and Worlds
+Independent Engineer · Systems Developer · Technical Researcher
 
-I build things that combine engineering and creativity.
+I build software, investigate complex technical problems, and explore the intersection of engineering, intelligence, aerospace, and artificial intelligence.
 
-From full-stack applications and automation tools to interactive worlds and low-level experiments, I enjoy turning ideas into working systems.
+My interests lie in building systems that go beyond conventional applications: platforms that collect and process information, connect disparate datasets, model complex environments, and turn raw data into useful intelligence.
 
-I believe great software is built through curiosity, strong fundamentals, and constant experimentation.
+I believe in learning by building, questioning established approaches, and taking technically ambitious ideas from architecture to working implementations.
 
----
+AREAS OF INTEREST
 
-## Currently Building
+Systems Engineering — Distributed architectures, telemetry, requirements engineering, system integration, and verification.
 
-### The Last Cartographer
+Intelligence & OSINT — Open-source intelligence, information fusion, geospatial analysis, data pipelines, and investigative research.
 
-A 3D exploration game about a world slowly disappearing.
+Aerospace & Robotics — Autonomous systems, spacecraft architectures, propulsion research, guidance, navigation, and control.
 
-The goal is simple:
+Artificial Intelligence — LLM integration, AI-assisted research, intelligent workflows, and applied machine learning.
 
-Explore. Discover. Map what remains.
+Software Infrastructure — Backend engineering, real-time processing, databases, APIs, and scalable architectures.
 
-Built with:
+SELECTED PROJECTS
 
-* Unity
-* C#
-* Procedural systems
-* Gameplay programming
+Project
 
----
+Description
 
-## Engineering Focus
+SABLE Directorate
 
-```
-SOFTWARE SYSTEMS
-----------------
-Full-stack applications
-SaaS platforms
-Dashboards
-APIs
-Automation tools
+An experimental intelligence-research and information analysis ecosystem.
 
+VAELKOR Workbench
 
-INTERACTIVE WORLDS
-------------------
-Game mechanics
-Procedural generation
-Simulation systems
-Player experiences
+An engineering suite for requirements, systems architecture, telemetry, and operations.
 
+Project Vanguard
 
-LOW LEVEL ENGINEERING
----------------------
-C++
-Embedded systems
-Robotics
-Electronics
-PCB design
-```
+An open-source intelligence research and geospatial information-fusion platform.
 
----
+ASTRAL
 
-## Technologies
+An aerospace research programme exploring reusable launch vehicles and interplanetary spacecraft architectures.
 
-### Web Development
+Some projects are private, experimental, or under active development.
 
-React • Next.js • TypeScript • Tailwind CSS • Vite
+TECHNOLOGY & TOOLS
 
-### Backend & Data
+Languages & Backend
 
-Supabase • Firebase • SQLite • REST APIs
+Python · TypeScript · JavaScript · SQL · Rust · C++
 
-### Game Development
+Infrastructure & Data
 
-Unity • C# • Gameplay Systems • Procedural Generation
+PostgreSQL · PostGIS · Redis · Convex · REST APIs · Server-Sent Events
 
-### Engineering
+Development
 
-C++ • Embedded Systems • Robotics • Electronics
+Next.js · React · Git · Linux · Docker
 
----
+Research & Engineering
 
-## Projects
+Geospatial Systems · Data Engineering · Systems Architecture · Telemetry · AI Integration
 
-### Financial Systems
+ENGINEERING PHILOSOPHY
 
-Building tools focused on improving digital finance experiences and creating better systems for users.
+I prefer building over endlessly discussing ideas.
 
-### Collaborative Applications
+I enjoy working on problems that require understanding multiple disciplines, designing systems from first principles, and iterating until an idea becomes something functional.
 
-Creating real-time productivity platforms with modern web technologies.
+I don't believe engineering should be limited by conventional categories. Software, aerospace, intelligence, robotics, and infrastructure are interconnected disciplines with enormous room for experimentation.
 
-### Experimental Games
+The objective is to build things that matter.
 
-Developing games that focus on exploration, discovery, and unique gameplay systems.
+CURRENT FOCUS
 
-### Engineering Experiments
+Developing complex information-processing and research platforms.
 
-Exploring the connection between software, hardware, and automation.
+Exploring systems engineering and real-time data infrastructure.
 
----
+Studying aerospace and autonomous systems.
 
-## Philosophy
+Experimenting with AI-powered development and research workflows.
 
-```
-Ideas are everywhere.
+Building a deeper understanding of engineering at scale.
 
-The difference is building them.
-```
+CONNECT
 
-I enjoy learning deeply, experimenting with new technologies, and creating projects that solve problems or create experiences.
+GitHub: @shahzain19
 
----
+Independent builder. Long-term thinker. Always experimenting.
 
-## Connect
-
-GitHub:
-@shahzain19
-
-Portfolio:
-https://sorvin-website-design.vercel.app/
-
----
-
-## Status
-
-```
-BUILDING Atlas
-
-CURRENT MODE:
-CREATE
-EXPERIMENT
-SHIP
-```
-
-*"Build things worth remembering."*
