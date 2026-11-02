@@ -1,6 +1,6 @@
-Shahzain Rasool
+# Shahzain Rasool
 
-Independent Engineer · Systems Developer · Technical Researcher
+**Independent Engineer · Systems Developer · Technical Researcher**
 
 I build software, investigate complex technical problems, and explore the intersection of engineering, intelligence, aerospace, and artificial intelligence.
 
@@ -8,61 +8,52 @@ My interests lie in building systems that go beyond conventional applications: p
 
 I believe in learning by building, questioning established approaches, and taking technically ambitious ideas from architecture to working implementations.
 
-AREAS OF INTEREST
+---
 
-Systems Engineering — Distributed architectures, telemetry, requirements engineering, system integration, and verification.
+### AREAS OF INTEREST
 
-Intelligence & OSINT — Open-source intelligence, information fusion, geospatial analysis, data pipelines, and investigative research.
+- **Systems Engineering** — Distributed architectures, telemetry, requirements engineering, system integration, and verification.
+- **Intelligence & OSINT** — Open-source intelligence, information fusion, geospatial analysis, data pipelines, and investigative research.
+- **Aerospace & Robotics** — Autonomous systems, spacecraft architectures, propulsion research, guidance, navigation, and control.
+- **Artificial Intelligence** — LLM integration, AI-assisted research, intelligent workflows, and applied machine learning.
+- **Software Infrastructure** — Backend engineering, real-time processing, databases, APIs, and scalable architectures.
 
-Aerospace & Robotics — Autonomous systems, spacecraft architectures, propulsion research, guidance, navigation, and control.
+---
 
-Artificial Intelligence — LLM integration, AI-assisted research, intelligent workflows, and applied machine learning.
+### SELECTED PROJECTS
 
-Software Infrastructure — Backend engineering, real-time processing, databases, APIs, and scalable architectures.
+| Project | Description |
+|---|---|
+| **SABLE Directorate** | An experimental intelligence-research and information analysis ecosystem. |
+| **VAELKOR Workbench** | An engineering suite for requirements, systems architecture, telemetry, and operations. |
+| **Project Vanguard** | An open-source intelligence research and geospatial information-fusion platform. |
+| **ASTRAL** | An aerospace research programme exploring reusable launch vehicles and interplanetary spacecraft architectures. |
 
-SELECTED PROJECTS
+*Some projects are private, experimental, or under active development.*
 
-Project
+---
 
-Description
+### TECHNOLOGY & TOOLS
 
-SABLE Directorate
-
-An experimental intelligence-research and information analysis ecosystem.
-
-VAELKOR Workbench
-
-An engineering suite for requirements, systems architecture, telemetry, and operations.
-
-Project Vanguard
-
-An open-source intelligence research and geospatial information-fusion platform.
-
-ASTRAL
-
-An aerospace research programme exploring reusable launch vehicles and interplanetary spacecraft architectures.
-
-Some projects are private, experimental, or under active development.
-
-TECHNOLOGY & TOOLS
-
-Languages & Backend
+**Languages & Backend**
 
 Python · TypeScript · JavaScript · SQL · Rust · C++
 
-Infrastructure & Data
+**Infrastructure & Data**
 
 PostgreSQL · PostGIS · Redis · Convex · REST APIs · Server-Sent Events
 
-Development
+**Development**
 
 Next.js · React · Git · Linux · Docker
 
-Research & Engineering
+**Research & Engineering**
 
 Geospatial Systems · Data Engineering · Systems Architecture · Telemetry · AI Integration
 
-ENGINEERING PHILOSOPHY
+---
+
+### ENGINEERING PHILOSOPHY
 
 I prefer building over endlessly discussing ideas.
 
@@ -70,23 +61,23 @@ I enjoy working on problems that require understanding multiple disciplines, des
 
 I don't believe engineering should be limited by conventional categories. Software, aerospace, intelligence, robotics, and infrastructure are interconnected disciplines with enormous room for experimentation.
 
-The objective is to build things that matter.
+**The objective is to build things that matter.**
 
-CURRENT FOCUS
+---
 
-Developing complex information-processing and research platforms.
+### CURRENT FOCUS
 
-Exploring systems engineering and real-time data infrastructure.
+- Developing complex information-processing and research platforms.
+- Exploring systems engineering and real-time data infrastructure.
+- Studying aerospace and autonomous systems.
+- Experimenting with AI-powered development and research workflows.
+- Building a deeper understanding of engineering at scale.
 
-Studying aerospace and autonomous systems.
+---
 
-Experimenting with AI-powered development and research workflows.
+### CONNECT
 
-Building a deeper understanding of engineering at scale.
+GitHub: [@shahzain19](https://github.com/shahzain19)
 
-CONNECT
-
-GitHub: @shahzain19
-
-Independent builder. Long-term thinker. Always experimenting.
+*Independent builder. Long-term thinker. Always experimenting.*
 
